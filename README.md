@@ -1,4 +1,4 @@
-# serverless-datapipline-Amazon-humorreview
+# serverless-datapipeline-humorreview
 _**No need to create EC2 instances or use Cloud9. This is cost-free!!!**__
 ## Overview
 ![image](https://user-images.githubusercontent.com/39500675/137433077-508dd37d-e140-4bf4-8ffc-427dd02b73ad.png)
