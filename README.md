@@ -1,6 +1,8 @@
 # serverless-datapipline-Amazon-humorreview
 _**No need to create EC2 instances or use Cloud9. This is cost-free!!!**__
-## Archetict
+## Overview
+![image](https://user-images.githubusercontent.com/39500675/137433077-508dd37d-e140-4bf4-8ffc-427dd02b73ad.png)
+
 ## Test Data preparation
 - download data here https://humor-detection-pds.s3-us-west-2.amazonaws.com/Humorous.csv and here https://humor-detection-pds.s3-us-west-2.amazonaws.com/Humorous.csv
 - product: Oujia 
