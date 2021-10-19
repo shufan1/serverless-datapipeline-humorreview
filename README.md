@@ -1,5 +1,5 @@
 # serverless-datapipeline-humorreview
-_**No EC2 instance or Cloud9. This is cost-free!!!**__
+_**No EC2 instance or Cloud9**_
 ## Overview
 ![image](https://user-images.githubusercontent.com/39500675/137433077-508dd37d-e140-4bf4-8ffc-427dd02b73ad.png)
 
